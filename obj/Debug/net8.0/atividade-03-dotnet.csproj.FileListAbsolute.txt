@@ -1,0 +1,14 @@
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\bin\Debug\net8.0\atividade-03-dotnet.exe
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\bin\Debug\net8.0\atividade-03-dotnet.deps.json
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\bin\Debug\net8.0\atividade-03-dotnet.runtimeconfig.json
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\bin\Debug\net8.0\atividade-03-dotnet.dll
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\bin\Debug\net8.0\atividade-03-dotnet.pdb
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.AssemblyInfoInputs.cache
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.AssemblyInfo.cs
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.dll
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\refint\atividade-03-dotnet.dll
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.pdb
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\atividade-03-dotnet.genruntimeconfig.cache
+C:\Users\nara\Desktop\aula06-TDE-03\atividade-03-dotnet\obj\Debug\net8.0\ref\atividade-03-dotnet.dll
